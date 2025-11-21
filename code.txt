@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    printf("all above for learning");
+    return 0;
+}
